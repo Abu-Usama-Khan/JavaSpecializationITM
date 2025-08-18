@@ -1,0 +1,8 @@
+create a server class and open a socket connections. create a client class and try to make a connection.
+-ideally TCP for acknowledge connection.
+-UDP no ack
+-Spring boot lies on DI.
+-Annotation is boilerPlate
+-Understand Compression strategy for object creation
+-zamb
+response structure
